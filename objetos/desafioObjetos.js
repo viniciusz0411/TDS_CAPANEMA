@@ -6,5 +6,6 @@ const filme={
     duracao: 146
 }
 filme.gosto='bom'
+delete filme.nome
 
 console.log(filme)
